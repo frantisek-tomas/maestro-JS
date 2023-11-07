@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/maestro-JS/static/css/main.e6c13ad2.css",
-    "main.js": "/maestro-JS/static/js/main.85059951.js",
-    "index.html": "/maestro-JS/index.html",
-    "main.e6c13ad2.css.map": "/maestro-JS/static/css/main.e6c13ad2.css.map",
-    "main.85059951.js.map": "/maestro-JS/static/js/main.85059951.js.map"
+    "main.css": "/maestro-js/static/css/main.e6c13ad2.css",
+    "main.js": "/maestro-js/static/js/main.c6d704e5.js",
+    "index.html": "/maestro-js/index.html",
+    "main.e6c13ad2.css.map": "/maestro-js/static/css/main.e6c13ad2.css.map",
+    "main.c6d704e5.js.map": "/maestro-js/static/js/main.c6d704e5.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.85059951.js"
+    "static/js/main.c6d704e5.js"
   ]
 }
